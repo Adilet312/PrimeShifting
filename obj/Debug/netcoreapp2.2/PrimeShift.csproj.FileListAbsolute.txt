@@ -1,0 +1,11 @@
+/Users/Guest/PrimeShifting/obj/Debug/netcoreapp2.2/PrimeShift.csprojAssemblyReference.cache
+/Users/Guest/PrimeShifting/obj/Debug/netcoreapp2.2/PrimeShift.csproj.CoreCompileInputs.cache
+/Users/Guest/PrimeShifting/obj/Debug/netcoreapp2.2/PrimeShift.AssemblyInfoInputs.cache
+/Users/Guest/PrimeShifting/obj/Debug/netcoreapp2.2/PrimeShift.AssemblyInfo.cs
+/Users/Guest/PrimeShifting/bin/Debug/netcoreapp2.2/PrimeShift.deps.json
+/Users/Guest/PrimeShifting/bin/Debug/netcoreapp2.2/PrimeShift.runtimeconfig.json
+/Users/Guest/PrimeShifting/bin/Debug/netcoreapp2.2/PrimeShift.runtimeconfig.dev.json
+/Users/Guest/PrimeShifting/bin/Debug/netcoreapp2.2/PrimeShift.dll
+/Users/Guest/PrimeShifting/bin/Debug/netcoreapp2.2/PrimeShift.pdb
+/Users/Guest/PrimeShifting/obj/Debug/netcoreapp2.2/PrimeShift.dll
+/Users/Guest/PrimeShifting/obj/Debug/netcoreapp2.2/PrimeShift.pdb
